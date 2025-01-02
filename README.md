@@ -1,4 +1,4 @@
-Coffee Connect is a seamless, user-friendly coffee shop app designed to elevate the ordering experience for customers while streamlining operations for staff. It bridges the gap between customers and the coffee shop team, ensuring fast, accurate, and convenient service.
+Mug & Magic is a seamless, user-friendly coffee shop app designed to elevate the ordering experience for customers while streamlining operations for staff. It bridges the gap between customers and the coffee shop team, ensuring fast, accurate, and convenient service.
 
 Features for Customers:
 
